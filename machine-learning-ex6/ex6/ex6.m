@@ -1,3 +1,5 @@
+
+
 %% Machine Learning Online Class
 %  Exercise 6 | Support Vector Machines
 %
@@ -127,6 +129,8 @@ plotData(X, y);
 
 fprintf('Program paused. Press enter to continue.\n');
 pause;
+
+
 
 %% ========== Part 7: Training SVM with RBF Kernel (Dataset 3) ==========
 

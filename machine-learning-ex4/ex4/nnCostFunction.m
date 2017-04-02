@@ -98,7 +98,7 @@ theta2_ = theta2_ .* theta2_;
 J2 = sum(theta1_(:)) + sum(theta2_(:));
 J2 = J2 * lambda / (2 * m);
 
-J = J1 + J2;
+J = J1 + J2
 
 
 sigma3 = pred - Y;
